@@ -1,4 +1,5 @@
 # PowerBI-Analytics-Dashboard
+Transforming raw E-Commerce sales data into actionable business insights.
 
 # Project Overview
 This project is an end-to-end data analysis and visualization of e-commerce sales. The objective was to transform raw transactional data into a dynamic, interactive Power BI dashboard that tracks revenue generation, product performance, and sales trends. This project demonstrates proficiency in the complete data pipeline: from data generation and cleaning to advanced DAX modeling and visualization.
