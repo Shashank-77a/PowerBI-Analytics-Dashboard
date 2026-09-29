@@ -1,4 +1,4 @@
-# PowerBI-Analytics-Dashboard
+# E-Commerce PowerBI-Analytics-Dashboard
 Transforming raw E-Commerce sales data into actionable business insights.
 
 # Project Overview
